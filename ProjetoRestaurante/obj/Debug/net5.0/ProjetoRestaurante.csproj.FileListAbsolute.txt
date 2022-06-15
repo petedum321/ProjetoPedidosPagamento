@@ -1,0 +1,16 @@
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\bin\Debug\net5.0\ProjetoRestaurante.exe
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\bin\Debug\net5.0\ProjetoRestaurante.deps.json
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\bin\Debug\net5.0\ProjetoRestaurante.runtimeconfig.json
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\bin\Debug\net5.0\ProjetoRestaurante.runtimeconfig.dev.json
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\bin\Debug\net5.0\ProjetoRestaurante.dll
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\bin\Debug\net5.0\ref\ProjetoRestaurante.dll
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\bin\Debug\net5.0\ProjetoRestaurante.pdb
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\obj\Debug\net5.0\ProjetoRestaurante.csproj.AssemblyReference.cache
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\obj\Debug\net5.0\ProjetoRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\obj\Debug\net5.0\ProjetoRestaurante.AssemblyInfoInputs.cache
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\obj\Debug\net5.0\ProjetoRestaurante.AssemblyInfo.cs
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\obj\Debug\net5.0\ProjetoRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\obj\Debug\net5.0\ProjetoRestaurante.dll
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\obj\Debug\net5.0\ref\ProjetoRestaurante.dll
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\obj\Debug\net5.0\ProjetoRestaurante.pdb
+C:\Users\015238631\Documents\Projetos.net\ProjetoRestaurante\ProjetoRestaurante\obj\Debug\net5.0\ProjetoRestaurante.genruntimeconfig.cache
